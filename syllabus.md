@@ -18,13 +18,6 @@
         appointments outside these times if you email with sufficient
         notice.
 
-
-### TA: Silvia Téliz
-
--   Email: Silvia.Teliz@asc.upenn.edu
--   Office Hours:
-    -   TBA
-
 ---
 
 
@@ -36,12 +29,20 @@
 1.  Knaflic, C.N. (2015) *Storytelling with data: A visualization guide for business professionals*, Wiley.
 2.  Williams, S. (2020). *Data Action: Using Data for Public Good*. MIT Press.
 
+Downey, A. (2025). *Think Stats*. 3rd Edition O'Reilly Media. (<https://learning.oreilly.com/library/view/think-stats-3rd/9781098190248/>)
+
+Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/view/pandas-workout/9781617299728>
+
 
 ## References for Python coding
 
--   McGregor, S.E. (2021) *Practical Python Data Wrangling and Data
+-   McGregor, S.E. (2021). *Practical Python Data Wrangling and Data
     Quality*. O'Reilly Media. (This text is available through the Penn
     library <https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>)
+
+-   VanderPlas, J. (2022). *Python Data Science Handbook*. 2nd Edition, O'Reilly Media (<https://learning.oreilly.com/library/view/python-data-science/9781098121211/>)
+
+-   Vaughan, D. (2023). *Data Science: The Hard Parts*. O'Reilly Media. (<https://learning.oreilly.com/library/view/data-science-the/9781098146467/>)
 
 
 ## Recommended reading
@@ -118,7 +119,7 @@
     communicating data.
 
 
-
+# Schedule
 
 
 ## Week 1
@@ -254,7 +255,4 @@
 
 
 ### Wednesday 29 April
-
-
-
 
