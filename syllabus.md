@@ -34,8 +34,9 @@
 
 ## Textbooks
 
-1.  Knaflic, C.N. (2015) *Storytelling with data: A visualization guide for business professionals*, Wiley.
-2.  Williams, S. (2020). *Data Action: Using Data for Public Good*. MIT Press.
+1.  Heath, C. & Starr, K. (2022). *Making Numbers Count: The Art and Science of Communicating Numbers*. Simon & Schuster.
+2.  Knaflic, C.N. (2015) *Storytelling with data: A visualization guide for business professionals*, Wiley.
+3.  Williams, S. (2020). *Data Action: Using Data for Public Good*. MIT Press.
 
 Downey, A. (2025). *Think Stats*. 3rd Edition O'Reilly Media. (<https://learning.oreilly.com/library/view/think-stats-3rd/9781098190248/>)
 
@@ -68,11 +69,18 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 
 # Assessment
 
-1.  ****Attend weekly lab sessions and complete the assigned readings and exercises (40%)****
+1.  **Attend weekly lab sessions and complete the assigned readings and exercises (20%)**
     -   Wednesday class sessions will usually be programming labs. We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. You must have a github account to access the server. If you do not have an account go to <https://github.com/join> and set one up. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
     -   Assignments will usually be due at <span class="underline"><span class="underline">11.59 p.m. (EST) on the Friday</span></span> (but this may vary). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is <span class="underline">very</span> important to keep up.
 
-1.  ****Complete a <span class="underline">data story project</span> that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)****
+2.  **Complete the *Dataset of Week* analysis and blog post (40%)**
+    -   Most weeks we will look at a specific dataset (or number of
+        related datasets) focused on a particular topic.
+    -   Your task will be to apply the steps of understanding, asking
+        questions, analysis and exploration, interpreation and story telling.
+    -   Then you'll communicate your findings in an engaging blog post combining the analysis and explanation.
+
+3.  **Complete a <span class="underline">data story project</span> that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (40%)**
     -   More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
     
     -   The key steps of the project will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
@@ -143,7 +151,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ## Week 2 - Introduction
 
 
-### Monday 19 January ****NO CLASS - MLK, Jr. Day****
+### Monday 19 January *NO CLASS - MLK, Jr. Day*
 
 
 ### Wednesday 21 January - Simple Data Stories and Python basics
@@ -158,7 +166,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ## Week 3 - Data Frames and \`pandas\`
 
 
-### Monday 26 January - ****NO CLASS DUE TO WEATHER****
+### Monday 26 January - *NO CLASS DUE TO WEATHER*
 
 
 ### Wednesday 28 January - Using \`pandas\`
