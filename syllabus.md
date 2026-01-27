@@ -9,7 +9,7 @@
 ### Mon/Wed 10:15-11:30am (Room: ASC 109)
 
 
-### Professor: Dr. Matt O'Donnell (he/him/his)
+### Professor: Dr. Matt O'Donnell
 
 -   Email: mbod@asc.upenn.edu
 -   Office Hours: via Zoom (see link in Canvas)
@@ -17,6 +17,14 @@
     -   But this may vary and I will always try and be available for
         appointments outside these times if you email with sufficient
         notice.
+
+
+### Learning Assistant: Emma Luo
+
+-   Email: emmaluo@sas.upenn.edu
+-   Office Hours:
+    -   Monday 12-1 (in person at Annenberg, specific room TBD)
+    -   Tuesday 8 pm Zoom: <https://upenn.zoom.us/j/99260746265>
 
 ---
 
@@ -122,31 +130,44 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 # Schedule
 
 
-## Week 1
+## Week 1 - Introduction and Setup
 
 
 ### Wednesday 14 January
 
+-   Setup JupyterHub accounts
+-   Working with Jupyter notebooks and Markdown
+-   Initial class survey data
 
-## Week 2
+
+## Week 2 - Introduction
 
 
 ### Monday 19 January ****NO CLASS - MLK, Jr. Day****
 
 
-### Wednesday 21 January
+### Wednesday 21 January - Simple Data Stories and Python basics
+
+-   Simple stories in data
+-   \`matplotlib\` visualization
+-   Python Basics (Part 1) - Objects and Lists
+-   Introduction to \`pandas\` and data frames
+-   Blogging setup
 
 
-## Week 3
+## Week 3 - Data Frames and \`pandas\`
 
 
-### Monday 26 January
+### Monday 26 January - ****NO CLASS DUE TO WEATHER****
 
 
-### Wednesday 28 January
+### Wednesday 28 January - Using \`pandas\`
+
+-   Python Basics (Part 2) - Lists, Loops and Conditions
+-   Using \`pandas\` to understand a datasets and answer basic questions
 
 
-## Week 4
+## Week 4 - DSOW #1 - Philadelphia Weather
 
 
 ### Monday 02 February
@@ -155,13 +176,25 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 04 February
 
 
-## Week 5
+### DSOW #1 Blog Post - DUE Friday 06 February
+
+-   Publish to your blog
+-   Submit url for post in Canvas
+
+
+## Week 5 - DSOW #2 - Big Five Personality
 
 
 ### Monday 09 February
 
 
 ### Wednesday 11 February
+
+
+### DSOW #2 Blog Post - DUE Friday 13 February
+
+-   Publish to your blog
+-   Submit url for post in Canvas
 
 
 ## Week 6
@@ -173,6 +206,12 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 18 February
 
 
+### DSOW #3 Blog Post - DUE Friday 20 February
+
+-   Publish to your blog
+-   Submit url for post in Canvas
+
+
 ## Week 7
 
 
@@ -182,6 +221,12 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 25 February
 
 
+### DSOW #4 Blog Post - DUE Friday 27 February
+
+-   Publish to your blog
+-   Submit url for post in Canvas
+
+
 ## Week 8
 
 
@@ -189,6 +234,12 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 
 
 ### Wednesday 04 March
+
+
+### DSOW #5 Blog Post - DUE Friday 06 March
+
+-   Publish to your blog
+-   Submit url for post in Canvas
 
 
 ## SPRING BREAK March 7-15
