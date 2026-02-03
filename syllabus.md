@@ -24,7 +24,7 @@
 -   Email: emmaluo@sas.upenn.edu
 -   Office Hours:
     -   Monday 12-1 (in person at Annenberg, specific room TBD)
-    -   Tuesday 8 pm Zoom: <https://upenn.zoom.us/j/99260746265>
+    -   Tuesday 6.30-7.30pm Zoom: <https://upenn.zoom.us/j/99260746265>
 
 ---
 
