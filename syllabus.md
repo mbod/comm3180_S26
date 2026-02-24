@@ -175,22 +175,22 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 -   Using \`pandas\` to understand a datasets and answer basic questions
 
 
-## Week 4 - DSOW #1 - Philadelphia Weather
+## Week 4 - DOW #1 - Philadelphia Weather
 
 
-### Monday 02 February
+### Monday 02 February -
 
 
 ### Wednesday 04 February
 
 
-### DSOW #1 Blog Post - DUE Friday 06 February
+### DOW #1 Blog Post - DUE Friday 06 February @ 11.59pm
 
 -   Publish to your blog
 -   Submit url for post in Canvas
 
 
-## Week 5 - DSOW #2 - Big Five Personality
+## Week 5 - DOW #2 - Big Five Personality
 
 
 ### Monday 09 February
@@ -199,13 +199,13 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 11 February
 
 
-### DSOW #2 Blog Post - DUE Friday 13 February
+### DOW #2 Blog Post - DUE Friday 13 February
 
 -   Publish to your blog
 -   Submit url for post in Canvas
 
 
-## Week 6
+## Week 6 - DOW #3 - Winter Olympics
 
 
 ### Monday 16 February
@@ -214,25 +214,23 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 18 February
 
 
-### DSOW #3 Blog Post - DUE Friday 20 February
+### DOW #3 Blog Post - DUE Sunday 22 February
 
 -   Publish to your blog
 -   Submit url for post in Canvas
 
 
-## Week 7
+## Week 7 - DOW #4 PDOT Crash Data
 
 
-### Monday 23 February
+### Monday 23 February - **NO CLASS - Snow Day #2!**
 
 
 ### Wednesday 25 February
 
-
-### DSOW #4 Blog Post - DUE Friday 27 February
-
--   Publish to your blog
--   Submit url for post in Canvas
+-   Geolocated Data
+-   Using `geopandas`
+-   Exploring DOW #4
 
 
 ## Week 8
@@ -244,7 +242,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 04 March
 
 
-### DSOW #5 Blog Post - DUE Friday 06 March
+### DOW #4 Blog Post - DUE Saturday 07 March
 
 -   Publish to your blog
 -   Submit url for post in Canvas
@@ -253,7 +251,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ## SPRING BREAK March 7-15
 
 
-## Week 9
+## Week 9 - DOW #5
 
 
 ### Monday 16 March
@@ -262,7 +260,13 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 18 March
 
 
-## Week 10
+### DOW #5 Blog Post - DUE Saturday 21 March
+
+-   Publish to your blog
+-   Submit url for post in Canvas
+
+
+## Week 10 - DOW #6
 
 
 ### Monday 23 March
@@ -271,7 +275,13 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 25 March
 
 
-## Week 11
+### DOW #6 Blog Post - DUE Saturday 28 March
+
+-   Publish to your blog
+-   Submit url for post in Canvas
+
+
+## Week 11 - DOW #7
 
 
 ### Monday 30 March
@@ -280,13 +290,25 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 01 April
 
 
-## Week 12
+### DOW #7 Blog Post - DUE Saturday 04 April
+
+-   Publish to your blog
+-   Submit url for post in Canvas
+
+
+## Week 12 - DOW #8
 
 
 ### Monday 06 April
 
 
 ### Wednesday 08 April
+
+
+### DOW #8 Blog Post - DUE Saturday 11 April
+
+-   Publish to your blog
+-   Submit url for post in Canvas
 
 
 ## Week 13
