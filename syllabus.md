@@ -275,40 +275,30 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 25 March
 
 
-### DOW #6 Blog Post - DUE Saturday 28 March
-
--   Publish to your blog
--   Submit url for post in Canvas
-
-
 ## Week 11 - DOW #7
 
 
 ### Monday 30 March
 
+-   Group Projects: Initial Presentations
+
 
 ### Wednesday 01 April
 
 
-### DOW #7 Blog Post - DUE Saturday 04 April
+### DOW #6 Blog Post - DUE Saturday 04 April
 
 -   Publish to your blog
 -   Submit url for post in Canvas
 
 
-## Week 12 - DOW #8
+## Week 12
 
 
 ### Monday 06 April
 
 
 ### Wednesday 08 April
-
-
-### DOW #8 Blog Post - DUE Saturday 11 April
-
--   Publish to your blog
--   Submit url for post in Canvas
 
 
 ## Week 13
