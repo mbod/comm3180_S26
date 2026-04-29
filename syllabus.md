@@ -275,7 +275,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 25 March
 
 
-## Week 11 - DOW #7
+## Week 11 - Projects (1)
 
 
 ### Monday 30 March
@@ -292,7 +292,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 -   Submit url for post in Canvas
 
 
-## Week 12
+## Week 12 - Projects (2)
 
 
 ### Monday 06 April
@@ -301,7 +301,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 08 April
 
 
-## Week 13
+## Week 13 - Projects (3)
 
 
 ### Monday 13 April
@@ -310,7 +310,7 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 15 April
 
 
-## Week 14
+## Week 14 - Projects (4)
 
 
 ### Monday 20 April
@@ -319,11 +319,17 @@ Lerner, R.M. (2024). *Pandas Workout*. <https://learning.oreilly.com/library/vie
 ### Wednesday 22 April
 
 
-## Week 15
+## Week 15 - Projects (5)
 
 
 ### Monday 27 April
 
 
 ### Wednesday 29 April
+
+
+# FINISHED DOW BLOG POSTS DEADLINE Friday May 8
+
+
+# FINAL GROUP PROJECT DEADLINE Tuesday May 12
 
